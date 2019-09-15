@@ -1,0 +1,30 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+
+{% include 'blog/page_header.html' with header_img_url='/static/img/home-bg.jpg' header_title='A Blog App' header_subtitle='by Group 7' %}
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        {% for post in post_list %}
+        <div class="post-preview">
+          <a href="{% url 'post_detail' post.slug  %}">
+            <h2 class="post-title">
+              {{ post.title }}
+            </h2>
+            <h3 class="post-subtitle">
+              {{post.content|slice:":200" }}
+            </h3>
+          </a>
+          <p class="post-meta">Posted by <a href="#">{{ post.author }}</a> on {{ post.created_on }}</p>
+        </div>
+        <hr>
+        {% endfor %}
+      </div>
+  </div>
+</div>
+
+
+ {% endblock %}

@@ -1,0 +1,22 @@
+{% block sidebar %}
+
+<style>
+        .card{
+            box-shadow: 0 16px 48px #E3E7EB;
+        }
+       
+</style>
+
+<!-- Sidebar Widgets Column -->
+<div class="col-md-4 float-right ">
+<div class="card my-4">
+        <h5 class="card-header">Add New Post?</h5>
+    <div class="card-body">
+        <p class="card-text"> Click on the button below!</p>
+        <a href="{% url 'postnew_url' %}" class="btn btn-danger">Add Post<span class="glyphicon glyphicon-plus"></span></a>
+
+    </div>
+</div>
+</div>
+
+{% endblock sidebar %}

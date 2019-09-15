@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parse",
+				"parsedOutputLinkPort"
+			],
+			[
+				"par",
+				"parsedOutputLinkPort"
+			],
+			[
+				"inputVa",
+				"inputValueList"
+			],
+			[
+				"inputValue",
+				"inputValuelist"
+			],
+			[
+				"remo",
+				"removeDupButton"
+			],
+			[
+				"remove",
+				"remove_duplicates"
+			],
+			[
+				"parsed",
+				"parsedOutputLink"
+			],
+			[
+				"parpu",
+				"parsedOutputLink"
+			],
+			[
+				"pas",
+				"parsedOutputNE_noDup"
+			],
+			[
+				"exa",
+				"example_codes"
+			],
+			[
+				"va",
+				"validPostcode"
+			],
+			[
+				"let",
+				"lettersString"
+			],
+			[
+				"fix",
+				"fix_you"
+			],
+			[
+				"w",
+				"with_or_without_you"
+			],
+			[
+				"Displ",
+				"displayCount"
+			],
+			[
+				"totalLe",
+				"totalLetters"
+			],
+			[
+				"stri",
+				"stringCombineNameMale"
+			],
+			[
+				"other",
+				"othersFemale"
+			],
+			[
+				"spac",
+				"spacesFemale"
+			],
+			[
+				"nuber",
+				"numbersFemale"
+			],
+			[
+				"Name",
+				"nameMale"
+			],
+			[
+				"fe",
+				"nameFemale"
+			],
+			[
+				"cheapTpaste",
+				"cheapTpastePrice"
+			],
+			[
+				"chepa",
+				"cheapestDetergent"
+			],
+			[
+				"chi",
+				"chipsCateg"
+			],
+			[
+				"de",
+				"detergentCateg"
+			],
+			[
+				"tooth",
+				"toothpasteNP"
+			],
+			[
+				"pra",
+				"parsedOutputNE"
+			],
+			[
+				"fra",
+				"frameButtons"
+			],
+			[
+				"frame",
+				"frameButtons"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/home/jpiang/Desktop/djangobloggu/src/mysite/blog/urls.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/src/mysite/mysite/urls.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/src/mysite/templates/index2.html",
+		"/Z/home/jpiang/Desktop/djangobloggu/src/mysite/templates/sidebar.html",
+		"/Z/home/jpiang/Desktop/myPython/link_parse_py3.py",
+		"/Z/home/jpiang/Desktop/myPython/link_parse_py2.py",
+		"/Z/home/jpiang/Downloads/link_down_parse.py",
+		"/Z/home/jpiang/Desktop/myPython/link_down_parse.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/src/mysite/blog/views.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/src/mysite/blog/models.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/src/mysite/mysite/settings.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/src/mysite/blog/admin.py",
+		"/Z/home/jpiang/Downloads/parsu_v2_with_removeDup.py",
+		"/C/users/jpiang/Desktop/rightclick.py",
+		"/C/users/jpiang/Desktop/myPython/gf/horclient.py",
+		"/C/users/jpiang/Desktop/myPython/gf/base.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/food_tracker-master/food_tracker/templates/update_meal.html",
+		"/Z/home/jpiang/Desktop/djangobloggu/food_tracker-master/food_tracker/templates/add_meal.html",
+		"/Z/home/jpiang/Desktop/djangobloggu/food_tracker-master/food_tracker/templates/view_meal.html",
+		"/Z/home/jpiang/Desktop/djangobloggu/food_tracker-master/food_tracker/food/views.py",
+		"/C/users/jpiang/Desktop/lt_pon_index_parser.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/food_tracker_sample/food/models.py",
+		"/C/users/jpiang/Desktop/parsu_v2_with_removeDup.py",
+		"/C/users/jpiang/Desktop/parse_FMLinkDown_-dup.py",
+		"/Z/home/jpiang/Downloads/parsu.py",
+		"/Z/home/jpiang/Downloads/parsuv2.py",
+		"/Z/home/jpiang/Downloads/parsu_fixed_func.py",
+		"/C/users/jpiang/Desktop/parsuLink.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/food_tracker_sample/manage.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/food_tracker_sample/food_tracker/urls.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/food_tracker_sample/food_tracker/settings.py",
+		"/Z/home/jpiang/Desktop/djangobloggu/food_track_env/food_trackerr/food/models.py",
+		"/C/users/jpiang/Desktop/parsu.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/example.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/hw2_flames.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e6_aliens.py",
+		"/C/users/jpiang/Desktop/crypt.py",
+		"/C/users/jpiang/Desktop/myPython/junos.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e1_pangram.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e10_postcode.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e8_textfile.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e9_simpsons.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/test.py",
+		"/C/users/jpiang/Desktop/copy.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e7_textfile.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e2_decodeString.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e5_letterCounter.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e4_icao.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e12_song.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/h1_e2_decodeString.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/YTclassSample.py",
+		"/C/users/jpiang/Desktop/classsample.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/sample.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e10_circle.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/Day_2_HW/hw1_e11_rectangle.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/test.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day_2/hw2_cheapestProd.py",
+		"/C/users/jpiang/Desktop/myPython/UPSITF/Day 2/hw2_cheapest.py",
+		"/C/users/jpiang/Desktop/testt.py",
+		"/C/users/jpiang/Desktop/meooww.py",
+		"/C/users/jpiang/Desktop/tkintertut1.py",
+		"/C/users/jpiang/Desktop/texttk.py",
+		"/C/users/jpiang/Desktop/frame.py",
+		"/C/users/jpiang/Desktop/displaydemo.py",
+		"/C/users/jpiang/Desktop/displaydemo2.py",
+		"/C/users/jpiang/Desktop/tkintt.py",
+		"/Z/home/jpiang/Desktop/Zee/Python/grades.py",
+		"/Z/home/jpiang/Desktop/Zee/Python/leap_year.py",
+		"/C/users/jpiang/Desktop/Zee/Python/fibonacci.py",
+		"/C/users/jpiang/Desktop/power.py",
+		"/C/users/jpiang/Desktop/mdas.py",
+		"/C/users/jpiang/Desktop/example.py",
+		"/C/users/jpiang/Desktop/test.py",
+		"/C/users/jpiang/Desktop/input_argv.py",
+		"/C/users/jpiang/Desktop/randomOdd.py",
+		"/Z/home/jpiang/Desktop/Zee/Python/AlexScripts/dhcp_subnet.py",
+		"/C/users/jpiang/Desktop/list_ko.py",
+		"/C/users/jpiang/Desktop/Zee/Python/our_list.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "urls.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
